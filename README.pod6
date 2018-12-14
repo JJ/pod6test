@@ -1,0 +1,11 @@
+=begin pod
+
+=TITLE pod6test
+
+=SUBTITLE github ❤ perl 6
+
+=item L<C<test.pod>|/test.pod> -- regular (p5) Pod
+=item L<C<test6.pod>|/test6.pod> -- Pod 6, inferred by heuristic analysis of content
+=item L<C<test.pod6>|/test.pod6> -- Pod 6, specified by file extension
+
+=end pod
