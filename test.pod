@@ -4,4 +4,19 @@
 
 Regular .pod file. (not Pod 6.)
 
+pod62html will refuse to render this.
+
+Some code below the =cut here which pod2html doesn't bother with.
+
 =cut
+
+#| Base class for magicians 
+class Magician {
+  has Int $.level;
+  has Str @.spells;
+}
+ 
+#| Fight mechanics 
+sub duel(Magician $a, Magician $b) {
+}
+#= Magicians only, no mortals. 
