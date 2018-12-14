@@ -1,0 +1,7 @@
+=pod
+
+=head1 HELLO
+
+Regular .pod file. (not Pod 6.)
+
+=cut

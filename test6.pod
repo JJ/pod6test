@@ -1,0 +1,5 @@
+=begin pod
+
+Pod 6, determined heuristically.
+
+=end pod
